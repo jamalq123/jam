@@ -1,6 +1,6 @@
-streamlit
-newspaper3k
+streamlit==1.29.0
+newspaper3k==0.2.8
 googletrans==4.0.0-rc1
-nltk
+nltk==3.8.1
 textblob==0.17.1
 gTTS==2.5.0
